@@ -32,4 +32,4 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 
 ## Kontributor
 
-[Fauzi Wildan Gunawan](https://github.com/username)
+[Fauzi Wildan Gunawan](https://github.com/fauziwildan)
